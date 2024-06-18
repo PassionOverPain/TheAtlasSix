@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link rel="icon" type="image/png" href="Images/sword.png">
+  <link rel="stylesheet" type="text/css" href="art.css">
+  <script src="custom.js"></script>
+    <title>The Atlas six</title>
+  </head>
+  <body style="background-image: url(Images/background.jpg); background-repeat: no-repeat;background-size: 100% 100%;background-attachment:fixed;">
+     <header>
+    <h1 style="text-align: center;font-family:cursive;"><u>Legend tells a tale of six heroes</u></h1>
+    <img class="dragon" src="Images/dragon.gif" alt="">
+    <p style="font-size: 25px;color:whitesmoke">
+      In a world teetering on the brink of apocalypse, darkness shattered the light and unleashed unknown horrors upon humanity. Amidst the chaos, hope lay dormant in the form of six extraordinary individuals—the Atlas Six—scattered across a fractured world.
+Each possessed unique abilities and destinies entwined with the fate of humanity. As they navigated through the ruins of civilization, their paths converged, forging an uneasy alliance against both the monstrous creatures prowling the land and their own inner demons.
+Bound by a shared mission and the flickering ember of hope, the Atlas Six faced a journey that would test their resilience, challenge their alliances, and unravel mysteries buried deep within time itself. Their quest held the key to either defying the apocalypse or succumbing to its relentless advance.
+
+<audio id="voice">
+  <source src="voice.mp3" type="audio/mpeg">
+</audio>
+<button style ="margin-right:20px;position: fixed; bottom:0px;" id="playBTN" onclick="playVoice()"><i>Narrate &#9658;</i></button>
+&nbsp;
+&nbsp;
+
+<button style ="margin-right:20px;position: fixed; bottom:0px;right:700px"id="stopBTN" onclick="stopVoice()"><i>Stop &#9611;</i></button>
+
+<button style ="margin-right:20px;position: fixed; bottom:0px;right:400px" id="musicBTN" onclick="playMusic()"><i>Music&#9658;</i></button>
+<audio id="music">
+  <source src="music.mp3" type="audio/mpeg">
+</audio>
+<script>
+  var voice = document.getElementById('voice');
+  var music = document.getElementById('music');
+  var playBTN  = document.getElementById('playBTN');
+  var stop = document.getElementById('stopBTN');
+  var count = 0;
+  function playMusic(){
+      if(count==0){
+          count = 1;
+          music.play();
+          musicBTN.innerHTML = "Pause &#9208;";
+      }else{
+          count = 0;
+          music.pause();
+          musicBTN.innerHTML = "Continue &#9658;";
+      }
+    }
+  function playVoice(){
+      if(count==0){
+          count = 1;
+          voice.play();
+          playBTN.innerHTML = "Pause &#9208;";
+      }else{
+          count = 0;
+          voice.pause();
+          playBTN.innerHTML = "Continue &#9658;";
+      }
+    }
+     function stopVoice(){
+      playVoice()
+      voice.pause();
+      voice.currentTime = 0;
+      playMusic()
+      music.pause();
+      music.currentTime = 0;
+      musicBTN.innerHTML = "Play &#9658;";
+    }
+  </script>
+</p>
+  </header>
+    <h3 style="color: aqua;margin-left: 15px;"><i>The Healer</i></h3>
+  <p class="hero";>
+     <a target="_blank" href="Images/Healer.png">
+    <img src="Images/Healer.png" alt="This is player one" height="200" width="150" style="float: left;margin-left: 10px; margin-right: 10px;border-style: solid;border-color: aqua;"></a>
+     A well crafted healer.She is passionate about her cats.
+     <ul class = "A">
+    <li>HP: 100</li>
+    <li>ATK: 70</li>
+    <li>STAMINA: 90</li>
+    <li>MANA: 120</li>
+    <li>INTELLIGENCE: 170</li>
+    <li>STRENGTH: 50</li>
+    <li>DEXTERITY: 120</li>
+    <li>CLASS: WIZARD(HEALER)</li>
+    </ul>
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br>
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+  </p>
+  <section>
+    <img src="Images/floating.gif" alt="This is the TimeKeeper;" height="200px" style="position: absolute;left:1000px;top:600px">
+  <h3 style="color: blue;text-align: end;margin-right: 10px;"><i>The TimeKeeper</i></h3>
+  <p class="hero" style="margin-left: auto;text-align: end;">
+    <img src="Images/timekeeper.jpg" alt="This is player two" height="200" style="float: right;margin-right: 10px;border-style: solid;border-color:rgb(11, 11, 83);">
+    An old scholar of time. Experienced in various forms of combat.
+    <ul style="position:relative; left:850px;">
+   <li>HP: 130</li>
+   <li>ATK: 100</li>
+   <li>STAMINA: 120</li>
+   <li>MANA: 70</li>
+   <li>INTELLIGENCE: 90</li>
+   <li>STRENGTH: 60</li>
+   <li>DEXTERITY: 180</li>
+   <li>CLASS: KNIGHT(THE FALLEN ORDER)</li>
+   </ul>
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+  </p>
+  </section>
+  <h3 style="color: rgb(0, 240, 108);margin-left: 15px;"><i>The Eye</i></h3>
+  <p class="hero">
+    <img src="Images/Madam.png" alt="This is player three" height="200" style="float: left;margin-right: 10px;border-style: solid;border-color:rgb(10, 177, 32);"> 
+    Art is a reflection of the mind's truth, expect where her eyes lie.
+    <ul class="A">
+   <li>HP: 110</li>
+   <li>ATK: 60</li>
+   <li>STAMINA: 100</li>
+   <li>MANA: 140</li>
+   <li>INTELLIGENCE: 190</li>
+   <li>STRENGTH: 60</li>
+   <li>DEXTERITY: 100</li>
+   <li>CLASS: WIZARD(TELEPATHIC)</li>
+   </ul>
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br>  
+  </p>
+  <section>
+  <h3 style="color: grey;text-align: end;margin-right: 65px;text-align: end;"><i>The Titan</i></h3>
+  <p class="hero";style="margin-left:auto;text-align:end;">
+    <img src="Images/Titan.png" alt="This is player four" height="200" style="float:right;margin-right: 10px;border-style: solid;border-color:grey;">
+    <p style="text-align: end;">A refined vigilante with a tank anatomy.</p>
+    <ul style="position:relative; left:850px;">
+   <li>HP: 210</li>
+   <li>ATK: 140</li>
+   <li>STAMINA: 100</li>
+   <li>MANA: 50</li>
+   <li>INTELLIGENCE: 90</li>
+   <li>STRENGTH: 190</li>
+   <li>DEXTERITY: 90</li>
+   <li>CLASS: SOLDIER(TANK)</li>
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br>
+    <br> 
+    <br> 
+    <br> 
+    <br>  
+  </p>
+</section>
+  <h3 style="color: red;margin-left: 15px;"><i>The Phoenix</i></h3>
+  <p class="hero">
+    <img src="Images/Phoenix.png" alt="This is player five" height="200" style="float: left;margin-right: 10px;border-style: solid;border-color: red"> A dragon found in the land of the east.Anime rekindles her flame.
+    <ul class = "A">
+      <li>HP: 110</li>
+      <li>ATK: 160</li>
+      <li>STAMINA: 90</li>
+      <li>MANA: 120</li>
+      <li>INTELLIGENCE: 150</li>
+      <li>STRENGTH: 70</li>
+      <li>DEXTERITY: 100</li>
+      <li>CLASS: WIZARD(PYROMANCER)</li>
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+    <br> 
+  </p>
+  <footer>
+    <p style="text-align: center;font-size:xx-large;">...But where does the Sixth one reside you might ask... That mystery awaits....</p>
+  </footer>
+  </body>   
+</html>

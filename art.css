@@ -1,0 +1,37 @@
+body{ background-color: black;} 
+      h1{color:white;
+        font-family:fantasy;
+    }
+      p{color:white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+    }
+      .hero{color:white;
+        font-family: Georgia, 'Times New Roman', Times, serif;font-style: italic;
+    }
+    button{
+        
+        height: 70px;
+        width: 70px;
+        background-image: url(Images/sword.png);
+        background-size: cover;
+        color: white;
+        border-radius: 100px;
+        text-align: center;
+        margin-left: 1px;
+    }
+    .A{
+        color : white;
+        margin-left: 200px;
+    }
+    section{
+        color : white;
+    }
+    .dragon{
+         position: absolute;
+         top:10px;
+         height:100px;
+
+    }
+
+     
