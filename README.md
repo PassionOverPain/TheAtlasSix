@@ -12,4 +12,4 @@ All images and music used on this website are of third-party ownership. I do not
 
 ## Contribution:
 Feel free to fork this repo, just give attribution to the the various third-party owneers as I have mentioned above if you change things drastically.
-Enjoy 😃
+Enjoy 😎
