@@ -3,6 +3,8 @@
 The AtlasSix is a fictional concept created by my friends and I. The storyline is of six fictional characters who find themselves in the midst of
 a dystopian Earth setting, where they would have to settle aside their differences and use team-work to overcome the inpending fate of destruction
 (_I know, totally original and creative plot ;)_ )
+Live Site: https://passionoverpain.github.io/TheAtlasSix/
+
 ## General Attributes
 All images and music used on this website are of third-party ownership. I do not own any resources related to these categories.
 <ul>
