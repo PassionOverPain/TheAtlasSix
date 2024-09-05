@@ -5,6 +5,7 @@ a dystopian Earth setting, where they would have to settle aside their differenc
 (_I know, totally original and creative plot ;)_ ) <br>
 Live Site: https://passionoverpain.github.io/TheAtlasSix/
 
+...................Updated Version coming soon...............
 ## General Attributes
 All images and music used on this website are of third-party ownership. I do not own any resources related to these categories.
 <ul>
