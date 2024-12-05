@@ -1,9 +1,10 @@
-## TheAtlasSix ⚔
-**Narrative:**
-The AtlasSix is a fictional concept created by my friends and I. The storyline is of six fictional characters who find themselves in the midst of
-a dystopian Earth setting, where they would have to settle aside their differences and use team-work to overcome the inpending fate of destruction
-(_I know, totally original and creative plot ;)_ ) <br>
-Live Site: https://passionoverpain.github.io/TheAtlasSix/
+
+![Banner](https://github.com/user-attachments/assets/6cde0840-f69a-49c1-9bd3-b2b5bc4a48c9)
+
+<h1 Narrative style="text-align:center"> Narrative</h1>
+The Atlas Six is a text-based RPG centered around five fictional characters, each with their own strengths and weaknesses, yet united by an unbreakable bond. The narrative unfolds dynamically, adapting to the choices you make along your journey. Every decision leaves its mark, shaping a world where each storyline bends to accommodate the past.
+The game is set in the <i>Known World </i>—a realm brimming with conflict, opposing ideologies, ruthless politics, and fervent beliefs. It is an unforgiving land that spares no one who dares to overlook its warnings, challenging even the boldest to survive its trials.
+With five unique kingdoms, each harboring its own secrets and struggles, The Atlas Six invites you to explore, decide, and carve your own path in this intricate tale of survival, power, and camaraderie.
 
 ...................Updated Version coming soon...............
 ## General Attributes
@@ -14,5 +15,4 @@ All images and music used on this website are of third-party ownership. I do not
 </ul>
 
 ## Contribution:
-Feel free to fork this repo, just give attribution to the the various third-party owneers as I have mentioned above if you change things drastically.
-Enjoy 😎
+
