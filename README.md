@@ -1,7 +1,7 @@
 
-![Banner](https://github.com/user-attachments/assets/6cde0840-f69a-49c1-9bd3-b2b5bc4a48c9)
+![image](https://github.com/user-attachments/assets/1e55627b-c1ec-4f27-ad84-2457e05c2063)
 
-<h1 Narrative style="text-align:center"> Narrative✔</h1>
+<h1 Narrative style="text-align:center"> Narrative🔎</h1>
 The Atlas Six is a text-based RPG centered around five fictional characters, each with their own strengths and weaknesses, yet united by an unbreakable bond. The narrative unfolds dynamically, adapting to the choices you make along your journey. Every decision leaves its mark, shaping a world where each storyline bends to accommodate the past.
 The game is set in the <i>Known World </i>—a realm brimming with conflict, opposing ideologies, ruthless politics, and fervent beliefs. It is an unforgiving land that spares no one who dares to overlook its warnings, challenging even the boldest to survive its trials.
 With five unique kingdoms, each harboring its own secrets and struggles, The Atlas Six invites you to explore, decide, and carve your own path in this intricate tale of survival, power, and camaraderie.
@@ -52,7 +52,7 @@ The development of *The Atlas Six* leverages the following technologies:
 - **JavaScript**: Driving the game's interactive features, event handling, and logic.  
 - **JSON**: Managing storylines, branching decisions, and data structures.  
 
-For a detailed outline of the code, implementation processes, and logic behind the game, please refer to the [
+For a detailed outline of the code, implementation processes, and logic behind the game, please refer to the project wiki (coming soon).
 ## Contribution Guidelines:
 The Atlas Six is a free-to-download and play text-based RPG. However, redistribution or modifications to the game must be submitted as pull requests to this main repository. This ensures that all contributions are aligned with the vision and structure of the project.
 I welcome contributions from developers, artists, designers, QA testers, and players who wish to be part of the development journey alike. Whether you are improving code, designing assets, identifying bugs, or suggesting new features, your input is valuable to me and this project.
