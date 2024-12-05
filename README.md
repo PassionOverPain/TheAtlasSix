@@ -7,6 +7,16 @@ The game is set in the <i>Known World </i>—a realm brimming with conflict, opp
 With five unique kingdoms, each harboring its own secrets and struggles, The Atlas Six invites you to explore, decide, and carve your own path in this intricate tale of survival, power, and camaraderie.
 
 ...................Updated Version coming soon...............
+
+## Table of Contents
+- [How to Play the Game](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#how-to-play-the-game--)
+- [Tech Stack](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#tech-stack--%EF%B8%8F)
+- [Contribution Guidelines](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#contribution-guidelines)
+- [General Attributes](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#general-attributes)
+- [My GitHub Profile](https://github.com/PassionOverPain/)
+- [My LinkedIn Profile](https://www.linkedin.com/in/tinotenda-mhedziso/)
+- [My Website](https://tinotenda-mhedziso.pages.dev/)
+  
 ## How to Play the Game  🎮
 
 Since *The Atlas Six* is not yet deployed to an online platform, you'll need to play the game locally. Here's a step-by-step guide to get started:  
@@ -57,7 +67,7 @@ For a detailed outline of the code, implementation processes, and logic behind t
 The Atlas Six is a free-to-download and play text-based RPG. However, redistribution or modifications to the game must be submitted as pull requests to this main repository. This ensures that all contributions are aligned with the vision and structure of the project.
 I welcome contributions from developers, artists, designers, QA testers, and players who wish to be part of the development journey alike. Whether you are improving code, designing assets, identifying bugs, or suggesting new features, your input is valuable to me and this project.
 
-## Procedure:💻
+### Procedure:💻
 <ul>
 <li>Fork the Repository: Start by forking this repository to create your own working copy.</li>
 <li>Clone the Repository: Clone the forked repository to your local machine.</li>
@@ -67,7 +77,7 @@ I welcome contributions from developers, artists, designers, QA testers, and pla
 <li>Submit a Pull Request: When your changes are ready, submit a pull request detailing your modifications. Include screenshots, test cases, or documentation updates where applicable.</li>
 </ul>
 
-## Contribution Notes:📝
+### Contribution Notes:📝
 <ul>
 <li>Follow the coding conventions and guidelines outlined in the project wiki to maintain consistency.</li>
 <li>All assets and code must comply with the appropriate licensing requirements.</li>
