@@ -7,7 +7,34 @@ The game is set in the <i>Known World </i>—a realm brimming with conflict, opp
 With five unique kingdoms, each harboring its own secrets and struggles, The Atlas Six invites you to explore, decide, and carve your own path in this intricate tale of survival, power, and camaraderie.
 
 ...................Updated Version coming soon...............
+## How to Play the Game  
 
+Since *The Atlas Six* is not yet deployed to an online platform, you'll need to play the game locally. Here's a step-by-step guide to get started:  
+
+### 1. Fork the Repository  
+- Navigate to the [repository](https://github.com/PassionOverPain/TheAtlasSix1) on GitHub.  
+- Click the **Fork** button in the top-right corner to create your copy of the project.  
+
+### 2. Clone the Forked Repository  
+- Open your terminal or command prompt.  
+- Clone your forked repository using the following command:  
+  ```bash  
+  git clone https://github.com/PassionOverPain/TheAtlasSix1.git  
+Navigate into the project folder:
+bash
+Copy code
+cd the-atlas-six  
+3. Open the Project in Visual Studio Code
+Open Visual Studio Code on your computer.
+Click File > Open Folder and select the folder where you cloned the repository. <br>
+4. Install the Live Server Extension
+If you don’t already have it, install the Live Server extension in VS Code:
+Go to the Extensions tab in the left sidebar.
+Search for Live Server and click Install. <br>
+5. Start the Game Locally
+Left click on the index.html file in VS code then click Open with Live Server. <br>
+6. Enjoy
+To play, scroll down to the last section and click the start button indicated by a golden compass.
 
 ## Contribution Guidelines:
 The Atlas Six is a free-to-download and play text-based RPG. However, redistribution or modifications to the game must be submitted as pull requests to this main repository. This ensures that all contributions are aligned with the vision and structure of the project.
