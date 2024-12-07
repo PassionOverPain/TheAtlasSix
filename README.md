@@ -2,23 +2,25 @@
 ![image](https://github.com/user-attachments/assets/1e55627b-c1ec-4f27-ad84-2457e05c2063)
 
 <h1 Narrative style="text-align:center"> Narrative🔎</h1>
-The Atlas Six is a text-based RPG centered around five fictional characters, each with their own strengths and weaknesses, yet united by an unbreakable bond. The narrative unfolds dynamically, adapting to the choices you make along your journey. Every decision leaves its mark, shaping a world where each storyline bends to accommodate the past.
+The Atlas Six is a text-based <b>Role Playing Game</b> centered around five fictional characters, each with their own strengths and weaknesses, yet united by an unbreakable bond. The narrative unfolds dynamically, adapting to the choices you make along your journey. Every decision leaves its mark, shaping a world where each storyline bends to accommodate the past.
 The game is set in the <i>Known World </i>—a realm brimming with conflict, opposing ideologies, ruthless politics, and fervent beliefs. It is an unforgiving land that spares no one who dares to overlook its warnings, challenging even the boldest to survive its trials.
 With five unique kingdoms, each harboring its own secrets and struggles, The Atlas Six invites you to explore, decide, and carve your own path in this intricate tale of survival, power, and camaraderie.
 
-...................Updated Version coming soon...............
+#### Current Version: Beta 1.2.
 
 ## Table of Contents
 - [How to Play the Game](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#how-to-play-the-game--)
 - [Tech Stack](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#tech-stack--%EF%B8%8F)
 - [Contribution Guidelines](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#contribution-guidelines)
 - [General Attributes](https://github.com/PassionOverPain/TheAtlasSix?tab=readme-ov-file#general-attributes)
+- [My ChatBot](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/12/06/17/20241206170532-B1MKLU7F.json) 
 - [My GitHub Profile](https://github.com/PassionOverPain/)
 - [My LinkedIn Profile](https://www.linkedin.com/in/tinotenda-mhedziso/)
 - [My Website](https://tinotenda-mhedziso.pages.dev/)
   
 ## How to Play the Game  🎮
 
+#### Please Note: This is A Desktop Game [PC ONLY]. The respective files and graphics will not render properly on mobile.
 Since *The Atlas Six* is not yet deployed to an online platform, you'll need to play the game locally. Here's a step-by-step guide to get started:  
 
 ### 1. Fork the Repository  
