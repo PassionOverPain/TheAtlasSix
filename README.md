@@ -19,9 +19,9 @@ With five unique kingdoms, each harboring its own secrets and struggles, The Atl
 - [My Website](https://tinotenda-mhedziso.pages.dev/)
   
 ## How to Play the Game  🎮
-
-#### Please Note: This is A Desktop Game [PC ONLY]. The respective files and graphics will not render properly on mobile.
-Since *The Atlas Six* is not yet deployed to an online platform, you'll need to play the game locally. Here's a step-by-step guide to get started:  
+> [!Note]
+> #### Please Note: This is A Desktop Game [PC ONLY]. The respective files and graphics will not render properly on mobile.
+> Since *The Atlas Six* is not yet deployed to an online platform, you'll need to play the game locally. Here's a step-by-step guide to get started:  
 
 ### 1. Fork the Repository  
 - Navigate to the [repository](https://github.com/PassionOverPain/TheAtlasSix1) on GitHub.  
@@ -56,6 +56,9 @@ Left click on the index.html file in VS code then click Open with Live Server. <
 To play, scroll down to the last section and click the start button indicated by a golden star structure.
 ![image](https://github.com/user-attachments/assets/bad58c3b-54fd-4ac6-8b71-dc84cc07c055)
 
+> [!Warning]
+> #### The game currently uses one save for each local instance thus if you save twice, your first save is overwritten.
+
 ## Tech Stack:  👷🏿‍♂️
 
 The development of *The Atlas Six* leverages the following technologies:  
@@ -66,6 +69,8 @@ The development of *The Atlas Six* leverages the following technologies:
 
 For a detailed outline of the code, implementation processes, and logic behind the game, please refer to the project wiki (coming soon).
 ## Contribution Guidelines:
+> [!Tip]
+> #### Please check the respective resource licence Before adding it to this project. That includeds any art, music, code etc.
 The Atlas Six is a free-to-download and play text-based RPG. However, redistribution or modifications to the game must be submitted as pull requests to this main repository. This ensures that all contributions are aligned with the vision and structure of the project.
 I welcome contributions from developers, artists, designers, QA testers, and players who wish to be part of the development journey alike. Whether you are improving code, designing assets, identifying bugs, or suggesting new features, your input is valuable to me and this project.
 
@@ -80,6 +85,7 @@ I welcome contributions from developers, artists, designers, QA testers, and pla
 </ul>
 
 ### Contribution Notes:📝
+
 <ul>
 <li>Follow the coding conventions and guidelines outlined in the project wiki to maintain consistency.</li>
 <li>All assets and code must comply with the appropriate licensing requirements.</li>
@@ -93,3 +99,4 @@ All images and music used on this website are of third-party ownership. I do not
 <li>The background music: Acredited to <a href="https://www.youtube.com/watch?v=Rh7j_xsIu9Q&ab_channel=Eon">Eon-Arise</a></li>
 <li>The Narrating voice is TTS by Amber from <a href="https://play.ht/">Play HT</a></li>
 </ul>
+
