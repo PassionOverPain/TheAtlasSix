@@ -85,7 +85,7 @@ I welcome contributions from developers, artists, designers, QA testers, and pla
 </ul>
 Thank you for your interest in contributing to The Atlas Six. Together, we can make this project an engaging and polished experience for everyone ~ <i>Tino</i>.
 
-## General Attributes:🌟
+## General Attribution:🌟
 All images and music used on this website are of third-party ownership. I do not own any resources related to these categories.
 <ul>
 <li>The background music: Acredited to <a href="https://www.youtube.com/watch?v=Rh7j_xsIu9Q&ab_channel=Eon">Eon-Arise</a></li>
